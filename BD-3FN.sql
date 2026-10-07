@@ -1,6 +1,3 @@
--- DISEÑO LÓGICO AUTOMAX - NORMALIZADO HASTA 3FN
--- Compatible como propuesta para MySQL.
-
 CREATE DATABASE IF NOT EXISTS automax;
 USE automax;
 
