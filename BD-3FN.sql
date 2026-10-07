@@ -69,5 +69,3 @@ INSERT INTO marca (nombre) VALUES
 INSERT INTO categoria (nombre) VALUES
 ('Sedán'), ('SUV'), ('Camioneta'), ('Deportivo');
 
--- La separación de marca, categoría y características evita dependencias
--- parciales/transitivas y permite mantener el diseño normalizado hasta 3FN.
